@@ -1,0 +1,11 @@
+Mari,169
+Pets,180
+Mart,183
+Liis,178
+Maksim,185
+Kristo,179
+Kaari,174
+Eve, 190
+Nikita, 191
+Johanna, 181
+Madis,170

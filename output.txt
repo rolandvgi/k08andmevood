@@ -1,0 +1,13 @@
+Kodanik Eve ja tema pikkus on:  190cm
+Kodanik Johanna ja tema pikkus on:  181cm
+Kodanik Maksim ja tema pikkus on: 185cm
+Kodanik Mart ja tema pikkus on: 183cm
+Kodanik Nikita ja tema pikkus on:  191cm
+Kodanik Pets ja tema pikkus on: 180cm
+
+ Nendest lühemad semud on:
+Kaari pikkusega: 174cm
+Kristo pikkusega: 179cm
+Liis pikkusega: 178cm
+Madis pikkusega: 170cm
+Mari pikkusega: 169cm
